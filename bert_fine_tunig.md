@@ -1,5 +1,7 @@
 # HuggingFace 日本語BERTのfine tuning 
 
+[bert_fine_tuning.ipynb](bert_fine_tuning.ipynb)colaboratoryで実行する。ローカルで実行する際は、関連モジュールのバージョンの整合性が取れないことがあるので注意
+
 ``` python
 
 # ------- pretrained modelのダウンロードとセットアップ
